@@ -1,4 +1,5 @@
-
+# Warn:
+If you are using a window manager that supports the transparency effect, your windows will have the transparency effect instead of the ones in the photo. This happens, because this is the same setting I used for Compiz. 
 
                                                 Preview
 
